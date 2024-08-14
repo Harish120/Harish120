@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Harish120/Harish120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Harish Pant, a Senior PHP Developer specializing in Laravel and Vue.js. I have extensive experience in developing and managing complex web applications and am passionate about crafting efficient and scalable solutions.
 
-Here are some ideas to get you started:
+## What I Do
+- **Backend Development**: Working extensively with Laravel, crafting robust APIs, and building scalable server-side solutions.
+- **Frontend Development**: Leveraging Vue.js for dynamic and responsive user interfaces, along with other frontend technologies like HTML, CSS, JavaScript, and AJAX.
+- **Open Source Contributions**: Developing a Laravel CRUD package for efficient CRUD operations and dynamic file handling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career Goals
+I’m currently focused on advancing into a leadership role, to guide teams and projects to success.
+
+## Let's Connect
+Feel free to reach out if you're interested in discussing web development, or open source contributions!
+
+[LinkedIn](https://www.linkedin.com/in/harish-pant-1a807515b/) | [Portfolio](https://harishpant.com.np)
+
