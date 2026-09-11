@@ -1,11 +1,11 @@
 # Hi, I'm Harish 👋
 
-Senior Full Stack Developer based in Sydney, NSW — 8+ years building and scaling web applications across fintech, CRM, e-commerce, and betting platforms. I work mainly in PHP (Laravel, Yii2) and modern JavaScript (React, Next.js, NestJS, Vue), and I care most about clean architecture, performance, and shipping things that actually hold up in production.
+Senior Full Stack Developer based in Sydney, NSW — 8+ years building and scaling web applications across fintech, CRM, and e-commerce platforms. I work mainly in PHP (Laravel, Yii2) and modern JavaScript (React, Next.js, NestJS, Vue), and I care most about clean architecture, performance, and shipping things that actually hold up in production.
 
-- 🔭 Currently building **[Quizbrainly](https://github.com/Harish120)**, a multi-tenant SaaS quiz platform (NestJS, Next.js, PostgreSQL, Redis)
+- 🚀 Building **Quizbrainly**, a multi-tenant SaaS quiz platform (NestJS, Next.js, PostgreSQL, Redis)
 - 🌱 Also maintaining **[disaster.entokode.com](https://disaster.entokode.com)**, a public disaster-information portal for Nepal (Laravel, Next.js, MySQL)
 - 📦 Published **[laravel-sentinellog](https://packagist.org/packages/harryes/laravel-sentinellog)**, an open-source Laravel auth-logging and security package (380+ installs on Packagist)
-- 💼 8+ years across fintech, CRM, e-commerce, and betting platforms — including systems supporting 100,000+ active users
+- 💼 8+ years across fintech, CRM, and e-commerce platforms — including systems supporting 100,000+ active users
 - 💬 Happy to talk Laravel, NestJS, system architecture, performance tuning, or AI-assisted development workflows
 - 🌐 Portfolio: [harishpant.com.np](https://harishpant.com.np)
 
@@ -41,15 +41,9 @@ Senior Full Stack Developer based in Sydney, NSW — 8+ years building and scali
 | Project | Description | Stack |
 |---|---|---|
 | **[laravel-sentinellog](https://github.com/Harish120/laravel-sentinellog)** | Open-source Laravel security package — 2FA (TOTP), device/geolocation tracking, session hijack detection, brute-force protection, geo-fencing, token-based SSO | Laravel, PHP |
-| **Quizbrainly** *(in progress)* | Multi-tenant SaaS quiz platform | NestJS, Next.js, Tailwind CSS, PostgreSQL, Redis |
+| **Quizbrainly** | Multi-tenant SaaS quiz platform | NestJS, Next.js, Tailwind CSS, PostgreSQL, Redis |
 | **[disaster.entokode.com](https://disaster.entokode.com)** | Public portal aggregating disaster-related news and stats for Nepal | Laravel, Next.js, Tailwind CSS, MySQL |
 | **Custom CMS Platform** | Reusable CMS with a decoupled web app and standalone REST API backend | Laravel, REST API |
-| **[CrudPackage](https://github.com/Harish120/CrudPackage)** | Laravel package for handling API CRUD operations | Laravel, PHP |
-
-## GitHub Stats
-
-![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harish120&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish120&layout=compact&hide_border=true)
 
 ## Let's Connect
 
