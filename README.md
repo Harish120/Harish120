@@ -4,7 +4,7 @@ Senior Full Stack Developer based in Sydney, NSW — 8+ years building and scali
 
 - 🚀 Building **Quizbrainly**, a multi-tenant SaaS quiz platform (NestJS, Next.js, PostgreSQL, Redis)
 - 🌱 Also maintaining **[disaster.entokode.com](https://disaster.entokode.com)**, a public disaster-information portal for Nepal (Laravel, Next.js, MySQL)
-- 📦 Published **[laravel-sentinellog](https://packagist.org/packages/harryes/laravel-sentinellog)**, an open-source Laravel auth-logging and security package (730+ installs on Packagist)
+- 📦 Published **[laravel-sentinellog](https://packagist.org/packages/harryes/laravel-sentinellog)**, an open-source Laravel auth-logging and security package (770+ installs on Packagist)
 - 💼 8+ years across fintech, CRM, and e-commerce platforms — including systems supporting 100,000+ active users
 - 💬 Happy to talk Laravel, NestJS, system architecture, performance tuning, or AI-assisted development workflows
 - 🌐 Portfolio: [harishpant.com.np](https://harishpant.com.np)
